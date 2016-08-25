@@ -1,0 +1,4 @@
+- Created WebApi to provide data
+- Created Console Application to consume WebApi
+- Used Ninject for Dependency Injection
+- Wrote Test cases using NUnit
